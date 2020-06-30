@@ -1,0 +1,7 @@
+{
+    "name": "@jcansdale-test/hello-npm",
+    "version": "0.0.0",
+    "bin": {
+        "hello-npm": "index.js"
+    }
+}
